@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "_id": "automatic-hand-sanitiser",
+        "image": "/images/automatic-hand-sanitiser.jpg",
+        "title": "Automatic Hand Sanitiser",
+        "description": "Pocket Disinfection Automatic Sanitising Machine For Home, Office, Car, Hypermarket, Hotel Sanitiser Sprayer, Made in Ghana.",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 29.9
+      },
+      { 
+        "_id": "mask2",
+        "image": "/images/mask2.jpg",
+        "title": "Washable Face Mask",
+        "description": "Reusable Washable Cloth Protection Face Cover Stretch Fashion Mask Availible in All Sizes and Colors.",
+        "availableSizes": ["X", "M", "L"],
+        "price": 18.9
+      },
+      {
+        "_id": "thermometer-gun.jpg",
+        "image": "/images/thermometer-gun.jpg",
+        "title": "Digital Thermometer Gun",
+        "description": "3 in 1 Non-Contact Infrared Forehead Thermometer, Digital Three Color Backlit Display Instant Reading Temperature of Baby, Kid and Adult Availiable In All Sizes.",
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9
+      },
+      {
+        "_id": "hi-vis-ves",
+        "image": "/images/hi-vis-ves.jpg",
+        "title": "High Visibility Waistcoat Vest",
+        "description": "XIAKE 8 Pockets High Visibility Class 2 High Visibility Waistcoat Vest, Zipper Front - Availible in all Colors and all Sizes.",
+        "availableSizes": ["XL"],
+        "price": 25.9
+      },
+      {
+        "_id": "hand-sanitiser",
+        "image": "/images/hand-sanitiser.jpg",
+        "title": "Alcohol Based Hand Sanitiser",
+        "description": "Hand Sanitiser For Bathroom Reminder Stickers, Public Toilet Safety Warning Decal, Covid 19 Coronavirus Safety Availible In All Sizes.",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 10.9
+      },
+      {
+        "_id": "safety-mask",
+        "image": "/images/safety-mask.jpg",
+        "title": "Face Shield Full Face Covering",
+        "description": "Face Shield Full Face Covering Anti-Fog Shield Clear Glasses Safety Protection Visor Guard Visor Guard - Adjustable - Protective Film Must Be Peeled Off Availible In All Sizes.",
+        "availableSizes": ["XL", "XXL"],
+        "price": 49.9
+      }
+    ]
+  }
