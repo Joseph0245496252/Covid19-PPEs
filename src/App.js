@@ -1,4 +1,4 @@
-//animation-modal
+//product backend 
 import React from 'react';
 import data from "./data.json"
 import Products from './components/Products';
